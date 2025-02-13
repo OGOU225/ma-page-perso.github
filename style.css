@@ -1,0 +1,50 @@
+ 
+
+body{
+    background: url(./image/soleil.jpg)center/cover;
+    min-height: 100vh;
+}
+
+h1{
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    text-align: center;
+    font-size: 2,5rem;
+    color: #dbdada;
+    text-decoration: underline;
+    font-family: "Anton", serif;
+}
+
+
+.CORPS{}
+.aproposdemoi{text-transform: uppercase;
+    letter-spacing: 3px;
+    text-align: center;
+    font-size: 2,5rem;
+    color: #dbdada;
+    text-decoration: none;
+    font-family: "Anton", serif;
+}
+
+
+.mespassions{text-transform: uppercase;
+    letter-spacing: 3px;
+    text-align: center;
+    font-size: 2,5rem;
+    color: #dbdada;
+    text-decoration:none;
+    font-family: "Anton", serif;}
+
+button{
+
+    background: #704043;
+    color: white;
+    font-size: ;
+    padding: 20px ;
+    border-radius: 50px;
+    transition: all 0,2;
+    box-shadow: 3px 9px 12px;
+
+}
+
+
